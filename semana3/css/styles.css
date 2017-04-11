@@ -1,0 +1,87 @@
+body {
+  font-size: 16px;
+  color: #000000;
+  background-color: #FFF8DC;
+  font-family: 'Oxygen', sans-serif;
+}
+
+section {
+  font-size: 1.10em;
+}
+
+h1 {
+	margin-top: -1px;
+	padding-bottom: 15px;
+}
+
+div > h2 {
+	font-size: 1.7em;
+	margin-top: 3px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+div > article {
+	padding: 10px;
+}
+
+.cv-text {
+	background-color: gray;
+}
+
+/** HEADER **/
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header {
+	height: 80px;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: #000;  
+  font-size: 1.8em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: .75;
+  padding-top: 15px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+	margin-top: 10px;
+	border: 1px solid;
+	background-color: #808080;
+}
+#nav-list a {
+	color: #000;
+	text-align: center;
+	border: 1px solid;
+	font-weight: bold;
+}
+#nav-list a:hover {
+	color: #000;
+	background-color: #FFF8DC;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -25px;
+}
+
+#cviana-navbar-collapse-1 {
+	border: 0;
+}
+
+/* END HEADER*/
+
+/* MAIN CONTENT*/
+
+/* END CONTENT*/
